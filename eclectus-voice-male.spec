@@ -4,7 +4,7 @@ Version:	0.2
 Release:	3
 Group:		Development/Python
 License:	GPLv3+
-URL:		http://code.google.com/p/eclectus/
+URL:		https://code.google.com/p/eclectus/
 Source0:	http://eclectus.googlecode.com/files/chi-balm-hsk1-%{version}beta.tar.gz
 BuildArch:	noarch
 Requires:	eclectus
